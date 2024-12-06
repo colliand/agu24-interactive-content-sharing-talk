@@ -1,0 +1,30 @@
+name: interactive-content-sharing-talk-env
+channels:
+  - conda-forge
+  - pyviz
+  - defaults
+dependencies:
+  - gh-scoped-creds
+  - ipykernel
+  - ipyleaflet
+  - ipympl
+  - ipython
+  - jupyterlab
+  - jupyter-book
+  - jupyter-server-proxy[version='>=4.1.1']
+  - jupyterhub-singleuser
+  - jupyterlab
+  - jupyterlab-git
+  - jupyterlab-myst
+  - jupytext
+  - leafmap
+  - localtileserver
+  - lxml
+  - matplotlib
+  - nbgitpuller[version='>=1.2.1']
+  - nodejs
+  - notebook
+  - numba
+  - panel
+  - pystac-client
+  - python[version='>=3.12']
