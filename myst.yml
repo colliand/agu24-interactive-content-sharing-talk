@@ -8,7 +8,7 @@ project:
   # description: Make binder a public good
   # keywords: []
   authors: James Colliander
-  github: https://github.com/colliand/agu24-interactive-content-sharing-talk
+  github: https://github.com/colliand/right-to-reproducible-execution
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   jupyter:
     binder:
