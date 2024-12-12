@@ -1,2 +1,3 @@
-# agu24-interactive-content-sharing-talk
-A presentation at AGU24 on Interactive Content Sharing
+# right-to-reproducible-execution
+
+This presentation was intended for AGU2024 in Washington DC. Unfortunately, I was not able to attend the event.
