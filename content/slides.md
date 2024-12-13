@@ -28,8 +28,20 @@ The click the play button to render the embedded slides.
 The slides can also be accessed by [clicking here](https://docs.google.com/presentation/d/1puDRIrvx2yFMtHPyFNoIuZ_3QQjuPDZwg1RutOe5FXc/edit?usp=sharing).
 
 ```{code-cell} ipython3
+## Video
+
+from IPython.display import YouTubeVideo
+
+YouTubeVideo('D5s2HbaulZw', width=800, height=450, align='center')
+```
+
+```{code-cell} ipython3
 %%html
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQCsoAM5ogL36qMaDS5MpsuffXhZBomBhrlbvP_h2GV4fnfQ5nOQRkZcJUbGL-7H76UeB5Hhr2m80iB/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+```{code-cell} ipython3
+
 ```
 
 ![Broadcast Idea Frictionless Reproducibility](./assets/broadcast.png)
